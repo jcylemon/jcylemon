@@ -81,6 +81,6 @@ Looking to the future in the field of AI development.
     <span style="margin: 0 8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></span>
   </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-    <span style="margin: 0 8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></span>
+    <span style="margin: 0 8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" title="Flask" width="36" height="36" /></span>
   </a>
 </p>
