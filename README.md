@@ -11,10 +11,10 @@ Looking to the future in the field of AI development.
 
 
 ### 🌐 Socials
-
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/jcylemon)  
-[![GitLab](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg)](https://www.gitlab.com/jcylemon)
-
+<p align="left">
+    <a href="https://www.github.com/jcylemon"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36"></a>
+        <a href="https://www.gitlab.com/jcylemon"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="36"></a>
+</p>
 
 ### Stack 💻
 
